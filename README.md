@@ -1,7 +1,7 @@
 # WinterHack2026RegistrationFiles
 This repository contains my registration files for the WinterHack 2026 Candidate Selection Challenge (Hainan).
 
-![Demo video](demo_video.mp4)
+![Demo video](./demo_video.mp4)
 
 Hanyu Li
 
